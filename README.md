@@ -7,3 +7,5 @@ Goldbach - Tests Goldbach's conjecture of prime numbers
 Pseudo-Narcissitic Numbers: finds all pseudo-narcissitic numbers in a given range
 
 Lychrel - Finds all lychrel numbers in a given range using the 196-algorithm
+
+Madlib - Takes words from files and creates mad-libs
