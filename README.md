@@ -11,3 +11,5 @@ Lychrel - Finds all lychrel numbers in a given range using the 196-algorithm
 Madlib - Takes words from files and creates mad-libs
 
 Rand_Walk - Performs a random walk on nodes representing websites
+
+Document Compare - Checks for number of occurances of words in text files
