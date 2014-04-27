@@ -1,0 +1,39 @@
+http://www.optiontradingtips.com/resources/historical-data/dow-jones30.html
+
+The format of the data is;
+
+Date, Open, High, Low, Close, Volume.
+
+
+Name	Symbol	Data File
+Dow Jones 30 Industrials	^DJI	^DJI.TXT
+Alcoa Inc. Common	AA	AA.TXT
+American Express	AXP	AXP.TXT
+Boeing Company (T	BA	BA.TXT
+Bank of America C	BAC	BAC.TXT
+Caterpillar	CAT	CAT.TXT
+Cisco Systems	CSCO	CSCO.TXT
+Chevron Corporati	CVX	CVX.TXT
+E.I. du Pont de N	DD	DD.TXT
+Walt Disney Compa	DIS	DIS.TXT
+General Electric	GE	GE.TXT
+Home Depot	HD	HD.TXT
+Hewlett-Packard C	HPQ	HPQ.TXT
+International Bus	IBM	IBM.TXT
+Intel Corporation	INTC	INTC.TXT
+Johnson & Johnson	JNJ	JNJ.TXT
+JP Morgan Chase &	JPM	JPM.TXT
+Kraft Foods Inc.	KFT	KFT.TXT
+Coca-Cola Company	KO	KO.TXT
+McDonald's Corpor	MCD	MCD.TXT
+3M Company Common	MMM	MMM.TXT
+Merck & Company	MRK	MRK.TXT
+Microsoft Corpora	MSFT	MSFT.TXT
+Pfizer	PFE	PFE.TXT
+Procter & Gamble	PG	PG.TXT
+AT&T Inc.	T	T.TXT
+The Travelers Com	TRV	TRV.TXT
+United Technologi	UTX	UTX.TXT
+Verizon Communica	VZ	VZ.TXT
+Wal-Mart Stores	WMT	WMT.TXT
+Exxon Mobil Corpo	XOM	XOM.TXT
