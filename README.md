@@ -1,4 +1,4 @@
-Small projects created for CSE 232 at MSU
+Small projects created for CSE 232 at Michigan State University
 
 National Debt - Displays the height of the US national debt in miles
 
@@ -15,3 +15,5 @@ Rand_Walk - Performs a random walk on nodes representing websites
 Document Compare - Checks for number of occurances of words in text files
 
 Stock_Market - Simple stock market simulation
+
+Job Processing - Simulates job processing in a computer system
