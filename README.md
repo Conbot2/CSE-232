@@ -17,3 +17,5 @@ Document Compare - Checks for number of occurances of words in text files
 Stock_Market - Simple stock market simulation
 
 Job Processing - Simulates job processing in a computer system
+
+Knapsack - Simulation of the knapsack problem
