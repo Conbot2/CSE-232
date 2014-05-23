@@ -19,3 +19,5 @@ Stock_Market - Simple stock market simulation
 Job Processing - Simulates job processing in a computer system
 
 Knapsack - Simulation of the knapsack problem
+
+Single Link Map - Implementation of a map structure using linked lists
