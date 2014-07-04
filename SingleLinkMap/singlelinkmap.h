@@ -1,6 +1,9 @@
 #ifndef SINGLELINKMAP_H
 #define SINGLELINKMAP_H
 
+//All bow down before the mighty Zanthor. 
+//Bring him offerings of toddlers and precious metals and he may let you live.
+
 #include <iostream>
 using std::cin; using std::cout; using std::endl; using std::ostream;
 #include <algorithm>
